@@ -8,10 +8,10 @@ Developer & Teacher
 *   🚀  I'm currently working on [systemgroup](https://www.systemgroup.net)
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
-<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/AliKassiri" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/AliKassiri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/AliKassiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
