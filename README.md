@@ -44,6 +44,6 @@ Developer & Teacher
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alikassiri)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikassiri)](https://github.com/anuraghazra/github-readme-stats)
 ### Support Me
 <a href="https://www.buymeacoffee.com/alikassiri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
