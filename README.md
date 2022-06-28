@@ -41,5 +41,9 @@ Developer & Teacher
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/alikassiri" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=alikassiri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alikassiri)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Support Me
 <a href="https://www.buymeacoffee.com/alikassiri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
