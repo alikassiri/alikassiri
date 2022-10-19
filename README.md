@@ -6,7 +6,7 @@ Developer & Teacher
 
 *   🖥️  See my portfolio at [alikassiri.ir](https://alikassiri.ir)
 *   🚀  I'm currently working on [systemgroup](https://www.systemgroup.net)
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/AliKassiri" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/AliKassiri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
