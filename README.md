@@ -1,7 +1,7 @@
 My name is Ali Kassiri
 ===============================
 
-Developer & Teacher
+Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [alikassiri.ir](https://alikassiri.ir)
