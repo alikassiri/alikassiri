@@ -29,6 +29,6 @@ Developer & Teacher
 
 ### Portfolio
 <p align="left">
-    <a href="https://dana8849.ir" target="_blank" rel="noreferrer"><img src="https://alikassiri.ir/dana.png" /></a>
+    <a href="https://dana8849.ir" target="_blank" rel="noreferrer"><img src="https://alikassiri.ir/dana.png" width="32" height="32" /></a>
 
   </p>
