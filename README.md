@@ -5,7 +5,6 @@ Developer
 -----------------------------
 
 *   🖥️  See my portfolio at [alikassiri.ir](https://alikassiri.ir)
-*   🚀  I'm currently working on [systemgroup](https://www.systemgroup.net)
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/AliKassiri" target="_blank" rel="noreferrer"><img
