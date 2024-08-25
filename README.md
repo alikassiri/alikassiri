@@ -11,7 +11,24 @@
 
 🧋 Come visit my website <a href="https://alikassiri.github.io/">https://alikassiri.github.io/</a>!
 
-📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a> or you're more than welcome to connect me throught <a href="https://www.linkedin.com/in/donaldzou/">LinkedIn</a>! 
+📫 You can reach me through email: <a href="mailto:alikassiri99@gmail.com">alikassiri99@gmail.com</a> or you're more than welcome to connect me throught <a href="https://www.linkedin.com/in/ali-kassiri-a39956220/">https://www.linkedin.com/in/ali-kassiri-a39956220</a>! 
+
+#### `./ali --code`
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="30px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px" align="left"/>
+
 
 Developer
 -----------------------------
