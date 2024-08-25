@@ -13,17 +13,13 @@
 
 👨‍💻‍ Pursuing a career in Full Stack Developer
 
-
 🧋 Come visit my website <a href="https://alikassiri.github.io/">https://alikassiri.github.io/</a>!
 
 📫 You can reach me through email: <a href="mailto:alikassiri99@gmail.com">alikassiri99@gmail.com</a> or you're more than welcome to connect me throught <a href="https://www.linkedin.com/in/ali-kassiri-a39956220/">https://www.linkedin.com/in/ali-kassiri-a39956220</a>! 
 
 🤝  I'm open to collaborating on interesting projects as a web developer!
 
-
-                  
 #### `./ali --portfolio`
-
 * [Dana Insuranse](https://dana8849.ir)-2021
 
 
@@ -45,8 +41,6 @@
 <br>
 
 #### `./ali --contact`
-
-
 <p align="left">
     <a href="https://www.instagram.com/ali_kassiri1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/alikassiri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
