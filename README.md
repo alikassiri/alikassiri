@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCCCCC&width=435&lines=.%2Fali+--sayhi;Hi!+This+is+Ali.;Welcome+to+my+Github+Page!;Wish+you+have+a+great+day!" alt="Typing SVG" /></a>===============================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCCCCC&width=435&lines=.%2Fali+--sayHi;Hi!+This+is+Ali.;Welcome+to+my+Github+Page!;Wish+you+have+a+great+day!" alt="Typing SVG" /></a>===============================
 
 Developer
 -----------------------------
