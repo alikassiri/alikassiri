@@ -1,5 +1,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCCCCC&width=435&lines=.%2Fali+--sayHi;Hi!+This+is+Ali.;Welcome+to+my+Github+Page!;Wish+you+have+a+great+day!" alt="Typing SVG" /></a>===============================
 
+
+#### `./ali --help`
+🏫  Studying Computer Science in <a href="https://mohajer.nus.ac.ir/">Mohajer Technical University of Isfahan (MTU) </a>
+
+🔍  Focus on web development
+
+👨‍💻‍ Pursuing a career in Full Stack Developer
+
+
+🧋 Come visit my website <a href="https://alikassiri.github.io/">https://alikassiri.github.io/</a>!
+
+📫 You can reach me through email: <a href="mailto:donaldzou@live.hk">donaldzou@live.hk</a> or you're more than welcome to connect me throught <a href="https://www.linkedin.com/in/donaldzou/">LinkedIn</a>! 
+
 Developer
 -----------------------------
 
