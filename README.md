@@ -2,7 +2,7 @@
 
                   
 #### `./ali --help`
-🏫  Studying Computer Science in <a href="https://mohajer.nus.ac.ir/">Mohajer Technical University of Isfahan (MTU) </a>
+🏫  Studying Computer Science in <a href="https://iau.ir/">Azad University</a>
 
 🔍  Focus on web development
 
