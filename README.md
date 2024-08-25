@@ -1,10 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCCCCC&width=435&lines=.%2Fali+--sayHi;Hi!+This+is+Ali.;Welcome+to+my+Github+Page!;Wish+you+have+a+great+day!" alt="Typing SVG" /></a>
 
-
-<a href="https://www.twitter.com/AliKassiri" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AliKassiri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/alikassiri" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AliKassiri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 #### `./ali --help`
 🏫  Studying Computer Science in <a href="https://mohajer.nus.ac.ir/">Mohajer Technical University of Isfahan (MTU) </a>
