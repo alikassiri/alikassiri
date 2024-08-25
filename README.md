@@ -49,7 +49,10 @@
 
 
 <br>
-#### `./ali --contact`  
+
+#### `./ali --contact`
+
+
 <p align="left">
     <a href="https://www.instagram.com/ali_kassiri1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/alikassiri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
